@@ -1,0 +1,6 @@
+
+Setup Google Cloud in order to use dataproc:
+
+gcloud config set project fargen-1-exome
+gcloud config set dataproc/region eu
+gcloud auth login
