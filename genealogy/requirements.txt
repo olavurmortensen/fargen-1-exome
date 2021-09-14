@@ -1,0 +1,3 @@
+git+https://github.com/olavurmortensen/pedgraph.git@master#egg=pedgraph
+git+https://github.com/olavurmortensen/aebs-db-utils.git@master#egg=aebs-db-utils
+jupyterlab==2.2.7
