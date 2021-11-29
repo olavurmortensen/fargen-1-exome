@@ -8,7 +8,7 @@ This repository contains code to reproduce the following paper:
 
 Corresponding author for the paper: noomi@fargen.fo
 
-The notebooks that produce the results for the paper can be found in `notebooks/main/`. Additionally, some genealogical analyses are found in the `genealogy/` folder.
+The notebooks that produce the results for the paper can be found in `notebooks/main/`. Pre-processing of gnomAD data, as well as merging, can be found in `notebooks/gnomad_exome_sites/` and `notebooks/gnomad_genome_genotypes/`. Additionally, some genealogical analyses are found in the `genealogy/` folder.
 
 ## Setup
 
